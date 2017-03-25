@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DoodleSurfaceView">
+        <attr name="paintStrokeWidth" format="float"/>
+        <attr name="paintColor" format="color|reference"/>
+    </declare-styleable>
+</resources>
